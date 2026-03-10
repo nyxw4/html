@@ -1,0 +1,36 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.textop{
+    margin-top: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.top{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.textleft{
+    margin-top: 0;
+    display: flex;
+    justify-content: end;
+}
+
+.redes{
+    margin-top: 0;
+    display: flex;
+    justify-content: end;
+}
+
+h1{
+    color: red
+}
+
+.container{
+    display: flex;
+    flex-direction: wrap;
+}
